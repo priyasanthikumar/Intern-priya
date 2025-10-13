@@ -6,7 +6,7 @@ print(type(t))
 print(t.index(3))
 
 #dictionary
-person={"name":"Ragavi","age":21}
+person={"name":"priya","age":21}
 
 print(person.get("age"))
 print(person["name"])
@@ -41,3 +41,4 @@ print(len(thisset))
 thisset = {"apple", "banana", "cherry", "apple"}
 
 print(thisset)
+
